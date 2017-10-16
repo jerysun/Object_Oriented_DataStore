@@ -1,4 +1,6 @@
-                Embedded Data Store
+```html
+        <h2>Embedded Data Store</h2>
+```
 
 First of all, I want you to know that the goal of EDS in software industry is to Make Efficiency Great Again!
 
@@ -58,3 +60,6 @@ That's ALL.
 
 Have fun!
 Jerry Sun ( jerysun0818@gmail.com )
+Linkedin: [GitHub](http://nl.linkedin.com/in/jerysun)
+Website:  [GitHub](https://sites.google.com/site/geekssmallworld)
+Github:   [GitHub](https://github.com/jerysun/)
