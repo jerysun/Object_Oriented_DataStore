@@ -1,11 +1,9 @@
-```html
-        <h2>Embedded Data Store</h2>
-```
+## Embedded Data Store
 
-First of all, I want you to know that the goal of EDS in software industry is to Make Efficiency Great Again!
+First of all, I want you to know that the goal of EDS in software industry is to **Make Efficiency Great Again!**
 
 The algorithm complexity of EDS even in the WORST cases, is still 
-        O(log n)
+        **O(log n)**
 for insert, query and delete operations
 
 The underlying technique of EDS - my customized B-Tree algorithm highly optimized for the state-of-the-art SSD Disk system is basically implemented in C language, only wrapped by a thin C++ layer, which is the interface for the EDS engine -  EDatastore which is written in STANDARD C++ without any third party dependency (libraries).
@@ -22,13 +20,16 @@ EDS is compatible with the traditional but widely used RDBMS with a easy convers
 
 EDS is ongoing, still evolves... The goal of EDS is not to replace the RDBMS that's suitable for large complex database applications and people who like and are good at SQL. EDS, just like the name hints, it aims at embedded system and applications, but so far it has flourished in desktop applications as well which delivery channel are via Internet, because as a developer or software vendor:
 
-    * you don't have to buy and install the cumbersome relational database servers onsite for your clients
-    * you don't have to ask your clients to buy and install the cumbersome relational database servers by themselves
-    * you don't have to buy the dedicated relational database servers and install them at your company for your clients' connections and accesses
+    * you don't have to buy and install the cumbersome relational database servers
+		  onsite for your clients
+    * you don't have to ask your clients to buy and install the cumbersome relational
+		  database servers by themselves
+    * you don't have to buy the dedicated relational database servers and install them
+		  at your company for your clients' connections and accesses
 
 EDS wins in the efficiency and affinity with the frontline application developers.
 
------------------ Something you need know -----------------
+----------------- **Something you need know** -----------------
 
 01. For efficiency's sake, we stipulate the length of the class names MUST NOT be longer than 31 characters, otherwise undefined behavior.
 
@@ -44,7 +45,7 @@ EDS wins in the efficiency and affinity with the frontline application developer
 
 08. The EDS project itself has very low requirement for your compilers, C++ 98 is enough.
 
------------------ How to integrate EDS into your projects -----------------
+----------------- **How to integrate EDS into your projects** -----------------
 
 Step 1: Add these EDS files to your projects:
 
@@ -60,6 +61,6 @@ That's ALL.
 
 Have fun!
 Jerry Sun ( jerysun0818@gmail.com )
-Linkedin: [GitHub](http://nl.linkedin.com/in/jerysun)
-Website:  [GitHub](https://sites.google.com/site/geekssmallworld)
-Github:   [GitHub](https://github.com/jerysun/)
+Linkedin: http://nl.linkedin.com/in/jerysun
+Website:  https://sites.google.com/site/geekssmallworld
+Github:   https://github.com/jerysun/
