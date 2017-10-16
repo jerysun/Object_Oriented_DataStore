@@ -1,6 +1,4 @@
-========================================================================
                 Embedded Data Store
-========================================================================
 
 First of all, I want you to know that the goal of EDS in software industry is to Make Efficiency Great Again!
 
