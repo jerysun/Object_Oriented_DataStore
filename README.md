@@ -60,7 +60,7 @@ Step 2: Add this statement in your projects where necessary:
 That's ALL.
 
 Have fun!
-Jerry Sun ( jerysun0818@gmail.com )
-Linkedin: http://nl.linkedin.com/in/jerysun
-Website:  https://sites.google.com/site/geekssmallworld
-Github:   https://github.com/jerysun/
+Jerry Sun
+* Linkedin: http://nl.linkedin.com/in/jerysun
+* Website:  https://sites.google.com/site/geekssmallworld
+* Github:   https://github.com/jerysun/
